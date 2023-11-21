@@ -23,19 +23,19 @@ const beyzadogan = {
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/byzdogan/giphysearchengine">
-  <img align="center" src="https://github.com/byzdogan/beyzadogan/assets/111748467/e89bd6b2-b24f-4134-8822-c5c867996148" alt="" width="200"/>
+  <img align="center" src="https://github.com/byzdogan/beyzadogan/assets/111748467/e89bd6b2-b24f-4134-8822-c5c867996148" alt="Giphy Search Engine" width="200"/>
 </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/byzdogan/GiphyTV">
-  <img align="center" src="https://github.com/byzdogan/beyzadogan/assets/111748467/698f66f1-b92d-4d3d-8f04-4549718304ff" alt="" width="200"/>
+  <img align="center" src="https://github.com/byzdogan/beyzadogan/assets/111748467/698f66f1-b92d-4d3d-8f04-4549718304ff" alt="Giphy TV" width="200"/>
 </a> <br> <br /> <br />
 
 <a href="https://github.com/byzdogan/ushop_web_admin_panel">
-  <img align="center" src="https://github.com/byzdogan/beyzadogan/assets/111748467/38dc8c86-2012-48f4-b744-565ff7562e03" alt="" width="200"/>
+  <img align="center" src="https://github.com/byzdogan/beyzadogan/assets/111748467/38dc8c86-2012-48f4-b744-565ff7562e03" alt="USHOP Web Admin Panel" width="200"/>
 </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/byzdogan/ushopecommerceapplication">
-  <img align="center" src="https://github.com/byzdogan/ushopecommerceapplication/assets/111748467/7ee461e6-6159-42a5-85e8-045ca504bef2" alt="" height="105"/>
+  <img align="center" src="https://github.com/byzdogan/ushopecommerceapplication/assets/111748467/7ee461e6-6159-42a5-85e8-045ca504bef2" alt="USHOP Mobile Application" height="105"/>
 </a>
 
 
