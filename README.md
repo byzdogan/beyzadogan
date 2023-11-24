@@ -1,6 +1,6 @@
 # Hi, I am Beyza! 🌻
 
-![Linkedin: beyzadogan](https://img.shields.io/badge/beyzadoğan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ayse-beyza-dogan/) &nbsp;&nbsp;&nbsp;
+[![Linkedin: beyzadogan](https://img.shields.io/badge/beyzadoğan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ayse-beyza-dogan/)](https://www.linkedin.com/in/ayse-beyza-dogan/) &nbsp;&nbsp;&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/byzdogan) &nbsp;&nbsp;&nbsp;
 ![GitHub User's stars](https://img.shields.io/github/stars/byzdogan)
 
